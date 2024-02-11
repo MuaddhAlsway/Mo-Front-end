@@ -1,0 +1,10 @@
+input{
+    width: 40px;
+    transition: 3s;
+}
+input:hover{
+    width: 140px;
+}
+fieldset{
+    width: fit-content;
+}
