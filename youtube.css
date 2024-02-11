@@ -1,0 +1,55 @@
+body{
+background-color: black;
+}
+.fa-list, .fa-house{
+    color: white;
+}
+
+.logo{
+    display: inline-block;
+    width: 50px;
+    position: absolute;
+    left: 30px;
+    top: -8px;
+}
+input{
+    display: inline-block;
+    position: absolute;
+    left: 180px;
+    top: 5px;
+    border-radius: 10px;
+    width: 40px;
+    height: 20px;
+    transition: 2s;
+}
+input:hover{
+    width: 173px;
+}
+.fa-microphone-lines{
+    display: inline-block;
+    position: absolute;
+    left: 400px;
+    top: 5px;
+    color: white;
+}
+.fa-video{
+    display: inline-block;
+    position: absolute;
+    left:450px ;
+    top: 5px;
+    color: white;
+}
+.fa-ring{
+    display: inline-block;
+    position: absolute;
+    left:500px ;
+    top: 5px;
+    color: white;
+}
+.fa-user{
+    display: inline-block;
+    position: absolute;
+    left:560px ;
+    top: 5px;
+    color: white;
+}
