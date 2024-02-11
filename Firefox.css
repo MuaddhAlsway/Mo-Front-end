@@ -1,0 +1,94 @@
+body{
+    background: #541779;
+}
+.Firefox{
+    width: 100px;
+    position: absolute;
+    top: 150px;
+    left: 400px;
+}
+h2{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    position: absolute;
+    top: 110px;
+    left: 510px;
+    font-size: 50px;
+}
+input{
+    
+    position: absolute;
+    top: 280px;
+    left: 130px;
+    width: 750px;
+    height: 50px;
+    border-radius: 10px;
+    
+}
+img{
+    width: 130px;
+}
+.fieldset1{
+    width: fit-content;
+    height: fit-content;
+    border-radius: 10px;
+    position: absolute;
+    top: 350px;
+    left: 50px;
+    
+}
+.fieldset2{
+    width: fit-content;
+    height: fit-content;
+    border-radius: 10px;
+    position: absolute;
+    top: 350px;
+    left: 300px;
+    
+}
+.fieldset3{
+    width: fit-content;
+    height: fit-content;
+    border-radius: 10px;
+    position: absolute;
+    top: 350px;
+    left: 550px;
+    
+}
+.fieldset4{
+    width: fit-content;
+    height: fit-content;
+    border-radius: 10px;
+    position: absolute;
+    top: 350px;
+    left: 800px;
+    
+}
+.h6{
+    color: white;
+    position: absolute;
+    top: 500px;
+    left: 95px;
+
+}
+.h7{
+    color: white;
+    position: absolute;
+    top: 500px;
+    left: 350px;
+}
+.h8{
+    color: white;
+    position: absolute;
+    top: 500px;
+    left: 610px;
+
+}
+.h9{
+    color: white;
+    position: absolute;
+    top: 500px;
+    left: 860px;
+
+}
