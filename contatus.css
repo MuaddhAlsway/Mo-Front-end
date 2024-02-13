@@ -1,0 +1,51 @@
+.img1{
+    width: 350px;
+    position: absolute;
+    left: 75px;
+    top: 150px;
+}
+h3{
+    position: absolute;
+    left: 75px;
+    top: 75px;
+}
+h5{
+    position: absolute;
+    left: 75px;
+    top: 400px;
+}
+.phone{
+    position: absolute;
+    left: 75px;
+    top: 500px;
+    display: inline-block;
+}
+.pre1{
+    position: absolute;
+    left: 75px;
+    top: 550px;
+    font-size: 10px;
+    display: inline-block;
+}
+.pre2{
+    position: absolute;
+    left: 750px;
+    top: 550px;
+    font-size: 10px;
+    display: inline-block;
+}
+.h7{
+    position: absolute;
+    left: 750px;
+    top: 500px;
+}
+button{
+    position: absolute;
+    left: 750px;
+    top: 650px;
+    border-radius: 30px;
+    height: 50px;
+    width: 180px;
+    background: black;
+    color: white;
+}

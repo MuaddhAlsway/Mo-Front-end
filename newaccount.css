@@ -1,0 +1,105 @@
+h2{
+    position: absolute;
+    left: 80px;
+}
+.ho  {
+    position: absolute;
+    left: 400px;
+    top: 12px;
+}
+.h7{
+    position: absolute;
+    left: 80px;
+    top: 40px;
+}
+.label1{
+    position: absolute;
+    left: 220px;
+}
+.first {
+    position: absolute;
+    left: 400px;
+    top: 80px;
+    border-radius: 6px;
+    
+}
+.id1{
+    position: absolute;
+    left: 400px;
+    top: 100px;
+    border-radius: 6px;
+    width: 320px;
+    height: 25px;
+}
+.second {
+    position: absolute;
+    left: 400px;
+    top: 140px;
+    border-radius: 6px;
+}
+.id2{
+    position: absolute;
+    left: 400px;
+    top: 160px;
+    border-radius: 6px;
+    width: 320px;
+    height: 25px;
+}
+.third{
+    position: absolute;
+    left: 400px;
+    top: 205px;
+    border-radius: 6px;
+}
+.id3{
+    position: absolute;
+    left: 400px;
+    top: 225px;
+    border-radius: 6px;
+    width: 320px;
+    height: 25px;
+}
+.fourth{
+    position: absolute;
+    left: 400px;
+    top: 260px;
+    border-radius: 6px;
+}
+.id4{
+    position: absolute;
+    left: 400px;
+    top: 280px;
+    border-radius: 6px;
+    width: 320px;
+    height: 25px;
+}
+fieldset{
+    width: fit-content;
+    position: absolute;
+    left: 400px;
+    top: 335px;
+    border-radius: 6px;
+}
+.h91{
+    position: absolute;
+    left: 420px;
+    top: 455px;
+    border-radius: 6px;
+}
+.checkbox1{
+    position: absolute;
+    left: 400px;
+    top: 475px;
+    border-radius: 6px;
+}
+.create{
+    position: absolute;
+    left: 400px;
+    top: 520px;
+    border-radius: 15px;
+    width: 320px;
+    height: 50px;
+    background: black;
+    color: white;
+}
+   

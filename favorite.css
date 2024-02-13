@@ -1,0 +1,67 @@
+h2{
+    position: absolute;
+    left: 150px;
+    top: 50px;
+}
+h6{
+    position: absolute;
+    left: 150px;
+    top: 85px;
+}
+h4{
+    display: inline-block;
+    position: absolute;
+    left: 170px;
+    top: 140px;
+}
+.fa-heart{
+    position: absolute;
+    left: 140px;
+    top: 160px;
+}
+.b1{
+    display: inline-block;
+    position: absolute;
+    left: 170px;
+    top: 180px;
+}
+.fa-list{
+    position: absolute;
+    left: 140px;
+    top: 200px;
+}
+.b2{
+    display: inline-block;
+    position: absolute;
+    left: 170px;
+    top: 220px;
+}
+.fa-user{
+    position: absolute;
+    left: 140px;
+    top: 240px;
+}
+.input1{
+    position: absolute;
+    left: 130px;
+    top: 300px;
+   width: 160px;
+   height: 50px;
+   border-radius: 50px;
+}
+.input1:hover{
+    border-color: tomato;
+}
+.input2{
+    position: absolute;
+    left: 300px;
+    top: 300px;
+   width: 160px;
+   height: 50px;
+   border-radius: 50px;
+   background: black;
+   color: white;
+}
+.input2:hover{
+    background: #4d4747;
+}

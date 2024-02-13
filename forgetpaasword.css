@@ -1,0 +1,55 @@
+h2{
+    position: absolute;
+    top: 148px;
+    left: 150px;
+}
+h6{
+    position: absolute;
+    top: 190px;
+    left: 150px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
+h3{
+    position: absolute;
+    top: 150px;
+    left: 500px;
+    font-size: 15px;
+}
+.label1{
+    position: absolute;
+    top: 250px;
+    left: 500px;
+}
+.input1{
+    position: absolute;
+    top: 280px;
+    left: 500px;
+    width: 400px;
+    height: 25px;
+}
+.button1{
+    position: absolute;
+    top: 330px;
+    left: 500px;
+    border-radius: 20px;
+    width: 410px;
+    height: 30px;
+    background: black;
+    color: white;
+}
+.button2{
+    position: absolute;
+    top: 375px;
+    left: 500px;
+    border-radius: 20px;
+    width: 410px;
+    height: 30px;
+    background: white;
+    color: black;
+
+}

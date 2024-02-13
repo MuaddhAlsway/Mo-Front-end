@@ -1,0 +1,55 @@
+h2{
+    position: absolute;
+    left: 150px;
+    top: 150px;
+}
+strong{
+    position: absolute;
+    left: 150px;
+    top: 210px;
+}
+h6{
+    position: absolute;
+    left: 150px;
+    top: 220px;
+}
+h4{
+    position: absolute;
+    left: 150px;
+    top: 250px;
+}
+pre{
+    position: absolute;
+    left: 150px;
+    top: 280px;
+}
+.button1{
+    position: absolute;
+    left: 150px;
+    top: 350px;
+    width: 180px;
+    height: 50px;
+    border-radius: 40px;
+    background: black;
+    color: white
+}
+.button1:hover{
+   
+    background:tomato;
+  
+}
+.button2{
+    position: absolute;
+    left: 150px;
+    top: 410px;
+    width: 180px;
+    height: 50px;
+    border-radius: 40px;
+    border: black solid;
+    color: black;
+}
+.button2:hover{
+    
+    border: blue solid;
+    
+}
