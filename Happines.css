@@ -1,0 +1,49 @@
+.img1{
+    width: 210px;
+}
+.fieldset1{
+    width: 40px;
+    height: 400px;
+    background: tomato;
+    display: inline-block;
+}
+.fa-arrow-right{
+    
+    background: black;
+    border-radius: 40px;
+    align-content: center;
+    color: white;
+    display: inline-block;
+
+}
+.fa-arrow-right:hover{
+    background: tomato;
+    display: inline-block;
+
+}
+.fieldset2{
+    width: 40px;
+    height: 400px;
+    background: rgb(88, 88, 227);
+    display: inline-block;
+    position: absolute;
+    top: 70px;
+    left: 290px;
+
+
+}
+h3, h6{
+    display: inline-block;
+}
+.fieldset3{
+    width: 40px;
+    height: 400px;
+    background: #f3f86b;
+    display: inline-block;
+    position: absolute;
+    top: 70px;
+    left: 600px;
+    
+
+
+}
