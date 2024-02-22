@@ -1,0 +1,546 @@
+body{
+    background-image: linear-gradient(to right,#f9c58d,#f492f0);
+}
+.fa-house{
+    position: absolute;
+    left: 900px;
+    top: 45px;
+    text-decoration: none;
+    color: #4b4bdf;
+    z-index: 1;
+
+}
+.fa-house:hover{
+    color: black;
+}
+.fa-cart-shopping{
+    position: absolute;
+    left: 980px;
+    top: 45px;
+    text-decoration: none;
+    color: #4b4bdf;
+    z-index: 1;
+
+}
+.fa-cart-shopping:hover{
+    color: black;
+}
+.fa-location-dot{
+    position: absolute;
+    left: 1060px;
+    top: 45px;
+    text-decoration: none;
+    color: #4b4bdf;
+    z-index: 1;
+}
+.fa-location-dot:hover{
+    color: black;
+}
+.fa-user{
+    position: absolute;
+    left: 1130px;
+    top: 45px;
+    text-decoration: none;
+    color: #4b4bdf;
+    z-index: 1;
+}
+.fa-user:hover{
+    color: black;
+}
+.H15{
+    position: absolute;
+    top: 300px;
+    left: 100px;
+}
+.H16{
+    position: absolute;
+    top: 350px;
+    left: 100px;  
+}
+.logo{
+    width: 100px;
+    z-index: 2; 
+    display: inline-block;
+    position: absolute;
+    
+}
+.h7{
+    position: absolute;
+    top: 960px;
+    left: 80px;
+}
+.hr1{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    height: 50px;
+    width: 1160px;
+    background: rgb(209, 234, 255);
+    border-radius: 30px;
+}
+.hr2{
+    position: relative;
+    top: 800px;
+    left: 0px;
+    width: 1100px;
+    height: 5px;
+    background: white;
+}
+.Animation{
+    position: absolute;
+    top: 200px;
+    left: 850px;
+    width: 350px;
+}
+.Animation1{
+    position: absolute;
+top: 665px;
+    left: 550px;
+    width: 150px;
+}
+.h35{
+    position: absolute;
+top: 745px;
+    left: 630px;
+    width: 150px;
+    z-index: 1;
+}
+.h25{
+    position: absolute;
+    top: 280px;
+    left: 1030px;
+}
+.button3{
+    position: absolute;
+    top: 355px;
+    left: 1015px;
+    width: 100px;
+    border-radius: 30px;
+    background-image: linear-gradient(to right,#f9c58d,#f492f0);
+}
+.h26{
+    position: absolute;
+    top: 380px;
+    left: 1015px;
+}
+.h26:hover{
+color: #e76f51;
+}
+.h27{
+    position: absolute;
+    top: 400px;
+    left: 1015px;
+}
+.h27:hover{
+    color: #e76f51;
+}
+.Animation2{
+    position: absolute;
+    top: 820px;
+    left:310px;
+    width: 120px;
+    z-index: 1;
+
+}
+.h30{
+    position: absolute;
+    top: 865px;
+    left:328px;
+    width: 80px;
+    font-size: 15px;
+    z-index: 1;
+
+}
+.Animation3{
+     position: absolute;
+    top: 800px;
+    left:920px;
+    width: 150px;
+    z-index: 1;
+}
+.h31{
+    position: absolute;
+    top: 865px;
+    left:955px;
+    width: 100px;
+    z-index: 1;
+    font-size: 15px;
+}
+.Animation4{
+     position: absolute;
+    top: 1370px;
+    left:950px;
+    width: 250px;
+    z-index: 1;
+}
+.Hi{
+    position: absolute;
+    top: 1425px;
+    left:1030px;
+    font-size: 6px;
+    z-index: 2;
+}
+.What{
+    position: absolute;
+    top: 1475px;
+    left:1000px;
+    font-size: 6px;
+    z-index: 2; 
+}
+.Thank{
+    position: absolute;
+    top: 1530px;
+    left:1050px;
+    font-size: 6px;
+    z-index: 2; 
+}
+.Dont{
+    position: absolute;
+    top: 1576px;
+    left:1025px;
+    font-size: 6px;
+    z-index: 2; 
+}
+.Contant{
+    position: absolute;
+    top: 1370px;
+    left:150px;
+    width: 250px;
+    z-index: 1;
+    font-size: 50px;
+}
+.Please{
+    position: absolute;
+    top: 1480px;
+    left:150px;
+    width: 250px;
+    z-index: 1;
+    font-size: 10px;
+    display: inline-block;
+}
+.input3{
+    position: absolute;
+    top: 1550px;
+    left:150px;
+    width:100px;
+    z-index: 1;
+    background: black;
+    font-size: 15px;
+    display: inline-block;
+    color: white;
+    border-radius: 30px;
+}
+.fa-x-twitter{
+    position: absolute;
+    top: 480px;
+    left: 1015px;
+}
+.fa-google-plus{
+    position: absolute;
+    top: 480px;
+    left: 1050px;
+}
+.fa-facebook-f{
+    position: absolute;
+    top: 480px;
+    left: 1090px;
+}
+
+.button1{
+    position: absolute;
+    top: 450px;
+    left: 100px;
+    width: 80px;
+    height: 25px;
+    background-image: linear-gradient(#ffb4a2,#6d6875);
+    border-radius: 30px;
+}
+.button2{
+    position: absolute;
+    top: 450px;
+    left: 200px;
+    width: 80px;
+    height: 25px;
+    background-image: linear-gradient(#ffb4a2,#6d6875);
+    border-radius: 30px;
+}
+.h11{
+    position: absolute;
+    top:960px;
+    left: 700px;
+}
+.Reno11{
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    left: 10px;
+
+}
+.air2{
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    left: 10px;
+}
+.air3{
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    left: 10px;
+
+}
+.band2{
+    width: 70px;
+    display: inline-block;
+    position: relative;
+    left: 10px;
+
+}
+.F1{
+    width: fit-content;
+    position: absolute;
+    top: 900px;
+    left: 180px;
+    background-image: linear-gradient(to right,#bde0fe,#ffafcc);
+    border-radius: 30px;
+}
+.F3{
+    width: fit-content;
+    position: absolute;
+    top: 900px;
+    left: 800px;
+    background-image: linear-gradient(to right,#bde0fe,#ffafcc);
+    border-radius: 30px;
+}
+.F6{
+    width: fit-content;
+    position: absolute;
+    top: 900px;
+    left: 800px;
+    background-image: linear-gradient(to right,#e9c46a,#e76f51);
+    border-radius: 30px;
+}
+.F4{
+    width: fit-content;
+    position: absolute;
+    top: 900px;
+    left: 1000px;
+    background-image: linear-gradient(to right,#bde0fe,#ffafcc);
+    border-radius: 30px;
+}
+.F5{
+    width: fit-content;
+    position: absolute;
+    top: 900px;
+    left: 1000px;
+    background-image: linear-gradient(to right,#e9c46a,#e76f51);
+    border-radius: 30px;
+}
+.F2{
+    width: fit-content;
+    position: absolute;
+    top: 900px;
+    left: 365px;
+    background-image: linear-gradient(to right,#bde0fe,#ffafcc);
+    border-radius: 30px;
+}
+
+.fa-mobile{
+    position: relative;
+    top: 30px;
+    left: -90px;
+}
+.fa-headphones-simple{
+    position: relative;
+    top: 30px;
+    left: -90px;
+}
+.fa-wand-magic-sparkles{
+    position: relative;
+    top: 30px;
+    left: -70px;
+}
+.h8{
+    position: relative;
+    top: -10px;
+    left: 50px;
+}
+.h9{
+    display:inline-block;
+    position: relative;
+    top: -30px;
+    left: 40px;
+}
+.h10{
+    display:inline-block;
+    position: relative;
+    top: 5px;
+    left: 20px; 
+}
+.fa-star{
+    position: relative;
+    top: -30px;
+    left: 10px;
+}
+.fa-cc-visa{
+    position: absolute;
+    top: 200px;
+    left: 20px;
+}
+.fa-cc-paypal{
+    position: absolute;
+    top: 165px;
+    left: 22px;
+}
+
+.logo1{
+    width: 50px;
+    position: absolute;
+    top: 1805px;
+    z-index: 1; 
+
+}
+.hr3{
+    position: absolute;
+    top: 1800px;
+    width: 1200px;
+    height: 250px;
+    background: black;
+}
+.fa-chevron-right{
+    color: white;
+    position: absolute;
+    top: 1820px;
+    left: 60px;
+    z-index: 1; 
+
+}
+.h19{
+    position: absolute;
+    top: 1830px;
+    left: 50px;
+    z-index: 2;
+    color: white; 
+    font-size: 12px;
+}
+.h20{
+    position: absolute;
+    top: 1790px;
+    left: 80px;
+    z-index: 2;
+    color: white; 
+    font-size: 12px;
+    z-index: 1;
+}
+.a1{
+    position: absolute;
+    top: 1900px;
+    left: 50px;
+    z-index: 2;
+    color: white; 
+    font-size: 12px;
+    z-index: 1;
+    text-decoration: none;
+    transition: 2s;
+}
+.a1:hover{
+    text-decoration: white;
+}
+.a2{
+    position: absolute;
+    top: 1930px;
+    left: 50px;
+    z-index: 2;
+    color: white; 
+    font-size: 12px;
+    z-index: 1;
+    text-decoration: none;
+    transition: 2s;
+}
+.a3{
+    position: absolute;
+    top: 1960px;
+    left: 50px;
+    z-index: 2;
+    color: white; 
+    font-size: 12px;
+    z-index: 1;
+    text-decoration: none;
+    transition: 2s;
+}
+.a4{
+    position: absolute;
+    top: 1990px;
+    left: 50px;
+    z-index: 2;
+    color: white; 
+    font-size: 12px;
+    z-index: 1;
+    text-decoration: none;
+    transition: 2s;
+}
+.h21{
+    position: absolute;
+    top: 1830px;
+    left: 250px;
+    z-index: 2;
+    color: white; 
+    font-size: 12px;
+    z-index: 1;
+    
+}
+.h22{
+    position: absolute;
+    top: 1830px;
+    left: 450px;
+    z-index: 2;
+    color: white; 
+    font-size: 12px;
+    z-index: 1;
+    
+}
+.fa-facebook{
+    position: absolute;
+    top: 1900px;
+    left: 450px;
+    z-index: 2;
+    color: blue; 
+    font-size: 12px;
+    z-index: 1;
+}
+.fa-twitter{
+    position: absolute;
+    top: 1930px;
+    left: 450px;
+    z-index: 2;
+    color: rgb(117, 213, 255); 
+    font-size: 12px;
+    z-index: 1;
+}
+.fa-google{
+    position: absolute;
+    top: 1960px;
+    left: 450px;
+    z-index: 2;
+    color: red ;
+    font-size: 12px;
+    z-index: 1;
+}
+.fa-user-tie{
+    position: absolute;
+    top: 1858px;
+    left: 430px;
+    z-index: 2;
+    color: burlywood ;
+    font-size: 12px;
+    z-index: 1;
+}
+.h24{
+    position: absolute;
+    top: 2000px;
+    left: 50px;
+    z-index: 2;
+    color: white; 
+    font-size: 12px;
+    z-index: 1;
+}

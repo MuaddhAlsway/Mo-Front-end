@@ -1,0 +1,146 @@
+.logo{
+    width: 100px;
+    position: absolute;
+    left: 30px;
+    top: 8px;
+    
+}
+body{
+    
+    background-image: linear-gradient(to right, #6384aa, #64eade);
+    
+}
+.select1{
+    position: absolute;
+    top: 45px;
+    left: 1050px;
+    color: black;
+    background: lightblue;
+    border-radius: 30px;
+}
+.select1:hover{
+    background: rgb(99, 183, 252);
+}
+.Home{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 45px;
+    left: 650px;
+
+}
+.Home:hover{
+    color: blue;
+}
+.Menu{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 45px;
+    left: 750px;
+}
+.Menu:hover{
+    color: blue;
+}
+.Deals{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 45px;
+    left: 850px;
+}
+.Deals:hover{
+    color: blue;
+}
+.input2{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 43px;
+    left: 950px;
+    border-radius: 30px;
+    width: 80px;
+    height: 25px;
+    background: burlywood;
+    color: black;
+}
+.input2:hover{
+    background: rgb(252, 203, 104);
+}
+h2{
+    color: white;
+    position: absolute;
+    top: 200px;
+    left: 150px;
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h2:hover{
+    color: rgb(98, 255, 252);
+    
+}
+p{
+    color: white;
+    position: absolute;
+    top: 310px;
+    left: 150px;
+    font-size: 20px;
+    font-family:serif;
+}
+.img2{
+    position: absolute;
+    top: 200px;
+    left: 860px;
+    width: 330px;
+}
+.h12{
+    position: absolute;
+    top: 300px;
+    left: 990px;
+    font-size: 20px;
+}
+.fa-face-laugh-beam{
+    position: absolute;
+    top: 300px;
+    left: 990px;
+   
+}
+.fa-heart{
+    position: absolute;
+    top:400px;
+    left: 990px;
+}
+.fa-hand-holding-heart{
+    position: absolute;
+    top: 300px;
+    left: 1050px;
+}
+.fa-star-half-stroke{
+    position: absolute;
+    top: 400px;
+    left: 1050px;
+}
+.input1{
+    position: absolute;
+    top: 400px;
+    left: 150px;
+    border-radius: 30px;
+    width: 80px;
+    height: 25px;
+    font-family:serif;
+}
+.input1:hover{
+    background: rgb(0, 229, 255);
+}
+.input3{
+    position: absolute;
+    top: 400px;
+    left: 250px;
+    border-radius: 30px;
+    width: 120px;
+    height: 25px;
+    font-family:serif;
+}
+.input3:hover{
+    background: rgb(0, 229, 255);
+}

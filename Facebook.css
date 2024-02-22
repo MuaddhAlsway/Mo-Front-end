@@ -39,6 +39,7 @@ input{
     background: #C0BCB5;
 
 }
+
 label{
     font-family: "Roboto", sans-serif;
     font-weight: 300;
@@ -58,9 +59,10 @@ color: #C0BCB5;
 }
 .fa-facebook{
     color: blue;
-    position: relative;
-    left: 40px;
-    bottom: 10px;
+    position: absolute;
+    left: 90px;
+top: 10px;
+
 }
 .fa-twitter{
     color: rgb(0, 179, 255);
@@ -71,9 +73,10 @@ color: #C0BCB5;
 .fa-google{
     color: red;
     position: absolute;
-    left: 90px;
-    top: 10px;
+    left: 130px;
+    bottom: 20px;
 }
+
 .h7{
     display: inline-block;
     position: relative;

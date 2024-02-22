@@ -24,9 +24,13 @@ input{
   font-weight: 300;
   font-style: normal;
 }
+label{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
 .input3:valid{
     background: #AF5D63;
-    
 }
 .input3:invalid{
     background: #C0BCB5;
@@ -38,11 +42,6 @@ input{
 .input2:invalid{
     background: #C0BCB5;
 
-}
-label{
-    font-family: "Roboto", sans-serif;
-    font-weight: 300;
-    font-style: italic;
 }
 a:hover{
 color: #C0BCB5;
@@ -70,9 +69,9 @@ color: #C0BCB5;
 }
 .fa-google{
     color: red;
-    position: absolute;
-    left: 90px;
-    top: 10px;
+    position: relative;
+    left: 60px;
+    bottom: 10px;
 }
 .h7{
     display: inline-block;

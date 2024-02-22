@@ -1,0 +1,39 @@
+body{
+    background-image: linear-gradient(to right,#A0A4B8,#D8DDEF);
+}
+fieldset{
+    width: fit-content;
+    position: relative;
+    left:450px;
+    top: 230px;
+    border-radius: 30px;
+}
+.Animation{
+    position: absolute;
+    top: 130px;
+    left: 500px;
+    width: 150px;
+}
+.email{
+    width: 200px;
+    border-radius: 30px;
+}
+.input1{
+    width: 100px;
+    border-radius: 30px;
+    position: relative;
+    left: 50px;
+    background-image: linear-gradient(#45B69C, #21D19F);}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: brown;
+}
+.email:valid{
+    background: burlywood;
+    }
+    .email:invalid{
+        background: red;
+    }
