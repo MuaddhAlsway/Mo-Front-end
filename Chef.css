@@ -1,0 +1,293 @@
+body{
+    background-image: linear-gradient(to right,#ffb703, #fb8500);
+}
+video{
+    width: 100vh;
+    position: absolute;
+    left: 580px;
+    top: 130px;
+    border-radius: 30px;
+    
+}
+.h15{
+    position: absolute;
+    top: 250px;
+    left: 60px;
+    color: white;
+    font-size: 45px;
+}
+.h16{
+    position: absolute;
+    top: 350px;
+    left: 60px;
+    color: black;
+}
+.Tools{
+    position: absolute;
+    top: 430px;
+    left: 60px;
+    color: black;
+    width: 65px;
+    height: 25px;
+    border-radius: 30px;
+    background-image: linear-gradient(to right,#ffb703, #fb8500);
+}
+.Join{
+    position: absolute;
+    top: 430px;
+    left: 150px;
+    color: black;
+    width: 65px;
+    height: 25px;
+    border-radius: 30px;
+    background-image: linear-gradient(to right,#ffb703, #fb8500);
+}
+.Home{
+    position: absolute;
+    left: 750px;
+    top: 35px;
+    text-decoration: none;
+    color: white;
+    z-index: 1;
+
+}
+.order{
+    position: absolute;
+    left: 850px;
+    top: 35px;
+    text-decoration: none;
+    color: white;
+    z-index: 1;
+
+}
+.Promotion{
+    position: absolute;
+    left: 950px;
+    top: 35px;
+    text-decoration: none;
+    color: white;
+    z-index: 1;
+
+}
+.Guest{
+    position: absolute;
+    left: 1050px;
+    top: 35px;
+    text-decoration: none;
+    color: white;
+    z-index: 1;
+}
+.logo{
+    width: 80px;
+    position: absolute;
+    z-index: 1;
+    top: 10px;
+}
+.hr1{
+    position: absolute;
+    width: 1150px;
+    top: 10px;
+    left: 15px;
+    height: 60px;
+    background: black;
+    border-radius: 30px;
+}
+.hr2{
+    position: absolute;
+    width: 100px;
+    top: 127px;
+    left: 15px;
+    height: 1px;
+}
+.hr3{
+    position: absolute;
+    width: 100px;
+    top: 120px;
+    left: 15px;
+    height: 1px; 
+}
+.f1{
+    position: absolute;
+    width: 190px;
+    height: 450px;
+    top: 700px;
+    border-radius: 30px;
+    background: black;
+    left: 30px;
+}
+.f2{
+    position: absolute;
+    width: 190px;
+    height: 450px;
+    top: 700px;
+    border-radius: 30px;
+    background: black;
+    left: 350px;
+}
+.f3{
+    position: absolute;
+    width: 190px;
+    height: 450px;
+    top: 700px;
+    border-radius: 30px;
+    background: black;
+    left: 650px;
+}
+.f4{
+    position: absolute;
+    width: 190px;
+    height: 450px;
+    top: 700px;
+    border-radius: 30px;
+    background: black;
+    left: 950px;
+}
+.f5{
+    position: absolute;
+    width: 250px;
+    height: 450;
+    top: 1350px;
+    left: 130px;
+    background: black;
+    border-radius: 30px;
+}
+
+.f6{
+    position: relative;
+    width: 250px;
+    height: 450;
+    top: 1350px;
+    left: 700px;
+    background: black;
+    border-radius: 30px;
+}
+.chef{
+    width: 100px;
+    position: relative;
+    top: 30px;
+  
+
+}
+.video1{
+    width: 300px;
+    position: relative;
+    left:1px;
+    top: -50px;
+}
+.sushi1{
+    display: inline-block;
+    width: 30px;
+    top: 150px;
+    position: absolute;
+    left: 150px;
+}
+.sushi2{
+    display: inline-block;
+    width: 30px;
+    top: 145px;
+    position: absolute;
+    left: 200px;
+}
+.button3{
+    position: relative;
+    left: 100px;
+    top: -5px;
+    border-radius: 30px;
+    width: 100px;
+    background: #ffb703;
+}
+.h20{
+    position: relative;
+    top: -120px;
+    left: 180px;
+    color: white;
+}
+.fa-star{
+    position: relative;
+    top: -80px;
+    left: 150px;
+    color: white;
+}
+.h19{
+    color: white;
+    position: relative;
+    top: -95px;
+    left: 100px;
+}
+.h10{
+    display: inline-block;
+    position: absolute;
+    top: 600px;
+    left: 450px;
+    color: white;
+}
+.h9{
+    color: white;
+    display: inline-block;
+    position: relative;
+    left:30px;
+    top: 10px;
+}
+.Sushi{
+    display: inline-block;
+    width: 30px;
+    top: 10px;
+    position: relative;
+    left: 80px;
+}
+.drink{
+    display: inline-block;
+    width: 30px;
+    top: 200px;
+    position: relative;
+    left: 80px;
+}
+.button1{
+    position: relative;
+    left: -10px;
+    top: 45px;
+    border-radius: 30px;
+    width: 150px;
+    background: #ffb703;
+}
+.button2{
+    position: relative;
+    left: -10px;
+    top: 230px;
+    border-radius: 30px;
+    width: 150px;
+    background: #ffb703;
+}
+.h11{
+    color: white;
+    position: absolute;
+    top: 90px;
+    
+    
+}
+.h12{
+    color: white;
+    position: absolute;
+    top: 120px;
+}
+.h13{
+    color: white;
+    position: absolute;
+    top:150px;
+}
+.h14{
+    color: white;
+    position: absolute;
+    top: 180px;
+}
+
+.h17{
+    color: white;
+    position: absolute;
+    top: 300px; 
+}
+.h18{
+    color: white;
+    position: absolute;
+    top: 330px; 
+}
