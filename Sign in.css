@@ -1,89 +1,94 @@
-body{
-    background-image: linear-gradient(to right,#C0BCB5,#846075,#AF5D63,#ED474A);
+div{
+    background-image: linear-gradient(to right,#000000,#1c1b1b7b),url(img/netflix-image.jpg);
+        width:1208px;
+        height: 800px;
+        
+        background-position: center;
+       background-repeat: no-repeat;
+       box-sizing: border-box;
+    
+    }
+    .F1{
+        background: transparent;
+        background-image: linear-gradient(to right,#000000,#1c1b1b7b);
+        width: 350px;
+        height: 500px;
+        position: absolute;
+        left: 450px;
+        top: 150px;
+        border:none;
+        border-radius: 10px;
+    }
+    h2{
+        color:  white;
+        position: absolute;
+        left: 50px;
+    
+        font-family: "DM Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 347;
+        font-style: normal;
 }
-fieldset{
-    width: fit-content;
+
+    .logo{
+        width: 200px;
+        position: absolute;
+        left: 50px;
+    }
+.email{
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+    background: transparent;
+    color: white;
     position: absolute;
     top: 100px;
-    left: 450px;   
-    border-radius: 30px; 
+    left: 50px;
+}
+.password{
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+    background: transparent;
+    color: white;
+    position: absolute;
+    top: 180px;
+    left: 50px;
+}
+.Sign{
+    width: 260px;
+    height: 50px;
+    border-radius: 10px;
+    background: red;
+    color: white;
+    position: absolute;
+    top: 250px;
+    left: 50px;
 }
 a{
-    text-decoration: none;
-}
-h3{
-   position: relative;
-   left: 60px;
-   font-family: "PT Sans Narrow", sans-serif;
-   font-weight: 700;
-   font-style: normal;
-   font-size: 30px;
-}
-input{
-    font-family: "Roboto", sans-serif;
-  font-weight: 300;
-  font-style: normal;
-}
-label{
-    font-family: "Roboto", sans-serif;
-    font-weight: 300;
-    font-style: italic;
-}
-.input3:valid{
-    background: #AF5D63;
-}
-.input3:invalid{
-    background: #C0BCB5;
-
-}
-.input2:valid{
-    background: #AF5D63;
-}
-.input2:invalid{
-    background: #C0BCB5;
-
+  position: absolute;
+  top: 310px;  
+  left: 130px;
+  color: white;
+  text-decoration: none;
 }
 a:hover{
-color: #C0BCB5;
+    color: rgb(115, 114, 114);
+    text-decoration-line: underline;
 }
-.input1{
-    background-image: linear-gradient(to right,#C0BCB5,#846075);
-    width: 150px;
-    height: 25px;
-    border-radius: 30px;
-    align-content: center;
-    position: relative;
-    left: 20px;
-}
-.fa-facebook{
-    color: blue;
-    position: relative;
-    left: 40px;
-    bottom: 10px;
-}
-.fa-twitter{
-    color: rgb(0, 179, 255);
-    position: relative;
+label{
+    color: white;
+    position: absolute;
+    top: 400px;  
     left: 50px;
-    bottom: 10px;
 }
-.fa-google{
-    color: red;
-    position: relative;
-    left: 60px;
-    bottom: 10px;
+.a1{
+    position: absolute;
+    top: 450px;
+    left: 50px;
 }
-.h7{
-    display: inline-block;
-    position: relative;
-    left: 25px;
-}
-.h7:hover{
-    color:#C0BCB5 ;
-}
-
-.fa-right-to-bracket{
-    display: inline-block;
-    position: relative;
-    left: 15px;
+.a2{
+    position: absolute;
+    top: 455px;
+    left: 160px;
 }
