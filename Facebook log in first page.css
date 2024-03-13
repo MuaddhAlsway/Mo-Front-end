@@ -1,0 +1,205 @@
+*{
+    cursor: pointer;
+}
+body{
+   background: rgb(154, 152, 152); 
+}
+.logo{
+    width: 150px;
+    position: absolute;
+    top: 100px;
+    left: 150px;
+}
+.h8{
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    font-size: 35px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 511;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.p1{
+    position: absolute;
+    top: 220px;
+    left: 150px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 360;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.f1{
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+    border: none;
+    background: #cdcaca;
+    position: absolute;
+    left: 140px;
+    top: 280px;
+}
+.f1:hover{
+box-shadow: 1px 1px 5px rgb(162, 161, 161);
+}
+.f3{
+    width: 149px;
+    height: 200px;
+    border-radius: 10px;
+    border: none;
+    background: white;
+    position: absolute;
+    left: 350px;
+    top: 280px;
+}
+.f3:hover{
+    box-shadow: 1px 1px 5px rgb(162, 161, 161);
+    }
+.logo1{
+    width: 120px;
+    position: absolute;
+    top: 63px;
+    left: 30px;
+}
+.f2{
+    width: 149px;
+    height: 35px;
+    position: absolute;
+    top: 180px;
+    left:-2px;
+border: none;
+border-bottom-left-radius:10px;
+border-bottom-right-radius: 10px;
+background: white;
+}
+
+.h9{
+    display: inline-block;
+    position: absolute;
+    top: -10px;
+    left: 70px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 360;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.h10{
+    display: inline-block;
+    position: absolute;
+    top: -10px;
+    left: 40px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 360;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      font-size: 20px;
+      color: blue;
+}
+.bxs-message-alt-add{
+position: absolute;
+top: 80px;
+left: 80px;
+
+}
+.f4{
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    left: 450px;
+    top: -90px;
+    border: none;
+    border-radius: 10px;
+    background: white;
+}
+.input1{
+    width: 330px;
+    height: 50px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    border-radius: 5px;
+    border: solid 1px rgb(154, 152, 152);
+    background: transparent;
+}
+
+
+
+.input1:invalid{
+    background: tomato;
+    
+}
+.input2{
+    width: 330px;
+    height: 50px;
+    position: absolute;
+    top: 80px;
+    left: 15px;
+    border-radius: 5px;
+    border: solid 1px rgb(154, 152, 152);
+    background: transparent;
+}
+.input3{
+    width: 330px;
+    height: 50px;
+    position: absolute;
+    top: 150px;
+    left: 15px;
+    border-radius: 5px;
+    border: solid 1px rgb(154, 152, 152);
+    background: rgb(57, 57, 255);
+    font-size: 20px;
+    color: white;
+}
+.h11{
+    position: absolute;
+    top: 190px;
+    left: 150px;
+    color: rgb(40, 52, 222);
+}
+.input4{
+    width: 200px;
+    height: 35px;
+    position: absolute;
+    top: 300px;
+    left: 90px;
+    border-radius: 5px;
+    border: solid 1px rgb(154, 152, 152);
+    background: rgb(4, 116, 0);
+    font-size: 20px;
+    color: white;
+}
+.hr1{
+    width:370px ;
+    position: absolute;
+    top: 250px;
+    left: 1px;
+}
+.valid {
+    color: green;
+  }
+  
+  .valid:before {
+    position: relative;
+    left: -35px;
+    content: "✔";
+  }
+  
+  /* Add a red text color and an "x" when the requirements are wrong */
+.invalid {
+    color: red;
+  }
+  
+.invalid:before {
+    position: relative;
+    left: -35px;
+    content: "✖";
+  }
+  

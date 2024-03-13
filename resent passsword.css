@@ -1,0 +1,206 @@
+
+body{
+    color: black;
+}
+*{
+    cursor: pointer;
+}
+.div1{
+    background: rgb(78, 77, 77);
+    height: 50px;
+}
+.logo1{
+    width: 100px;
+    position: absolute;
+    left: 25px;
+}
+.input1{
+    width: 180px;
+    height: 35px;
+    position: absolute;
+    left: 550px;
+    top: 15px;
+    border-radius: 5px;
+    border: solid 1px;
+}
+.input2{
+    width: 180px;
+    height: 35px;
+    position: absolute;
+    left: 750px;
+    top: 15px;
+    border-radius: 5px;
+    border: solid 1px;
+}
+.input3{
+    position: absolute;
+    top: 14px;
+    left: 950px;
+    color: white;
+    background: rgb(45, 45, 246);
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    border: solid 1px rgb(45, 45, 246);
+    font-weight: 600;
+}
+.h8{
+    position: absolute;
+    top: -10px;
+    left: 1050px;
+    color: rgb(238, 238, 238);
+    font-weight: 600;
+    font-size: 15px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.div2{
+    background: rgb(78, 77, 77);
+    height: 80px;
+    width: 1220px;
+    position: absolute;
+    top: 510px;
+}
+.f1{
+    width: 500px;
+    height:450px;
+    position: absolute;
+    top: 100px;
+    left: 300px;
+    border: none;
+    border-radius: 5px;
+    border: none;
+    background: rgb(252, 252, 252);
+    box-shadow: 1px 1px 10px black;
+}
+h2{
+    font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.h9{
+    font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 15px;
+  position: absolute;
+  top: 45px;
+}
+.input4{
+    width: 500px;
+    height: 50px;
+}
+.input5{
+    position: absolute;
+    left: 300px;
+    bottom:25px;
+    height: 30px;
+    width: 110px;
+    background-color: rgb(141, 141, 141);
+    border: none;
+    border-radius: 5px;
+}
+.input6{
+    position: absolute;
+    left: 420px;
+    bottom:25px;
+    height: 30px;
+    width: 80px;
+    background: rgb(125, 125, 255);
+    border-radius: 5px;
+    border: none;
+}
+.logo2{
+    width: 50px;
+    position: absolute;
+    left: 400px;
+    top: 100px;
+    border-radius: 50px;
+}
+.h10{
+    position: absolute;
+    left: 410px;
+    top: 140px;
+}
+.h11{
+    position: absolute;
+    left: 390px;
+    top: 160px;
+}
+.h12{
+    position: absolute;
+    left: 50px;
+    top: 100px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.hr1{
+    position: relative;
+    top: 300px;
+}
+.h17{
+    position: absolute;
+    bottom: -5px;
+    font-size: 15px;
+    color: blue;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.h13{
+    position: absolute;
+    left: 45px;
+    top: 120px;
+    display: inline-block;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.h14{
+    position: absolute;
+    left: 45px;
+    top: 170px;
+    display: inline-block;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.input7{
+    position: absolute;
+    top: 120px;
+}
+.input8{
+    position: absolute;
+    top: 190px;
+}
+.input9{
+    position: absolute;
+    top: 270px;
+}
+.h15{
+    position: absolute;
+    left: 50px;
+    top: 190px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.h16{
+    position: absolute;
+    left: 50px;
+    top: 250px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.h18{
+    position: absolute;
+    left: 45px;
+    top: 270px;
+    display: inline-block;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}

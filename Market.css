@@ -1,0 +1,567 @@
+.div1{
+position: fixed;
+width: 1300px;
+background: white;
+height: 60px;
+z-index: 1;
+top: -5px;
+left: -1px;
+box-shadow: 0 0 1px black;
+}
+
+.logo{
+    width: 35px;
+    display: inline-block;
+    position: relative;
+    top: 20px;
+    left: 15px;
+}
+.input1{
+    margin-left: 25px;
+    position: absolute;
+    top: 20px;
+    width: 250px;
+    height: 35px;
+    border:none;
+    border-radius: 30px;
+    background: rgb(199, 199, 199);
+}
+
+
+.bxs-home-alt-2{
+    width: 25px;
+    position: absolute;
+    left: 350px;
+    top: 25px;
+    
+    
+}
+
+.bx-user-circle{
+    width: 25px;
+    position: absolute;
+    left: 480px;
+    top: 25px;
+}
+
+.bxs-video-plus{
+    width: 25px;
+    position: absolute;
+    left: 600px;
+    top: 25px;
+}
+
+.bxs-store{
+    position: absolute;
+    left: 710px;
+    top: 25px;
+    width: 25px;
+}
+
+.bxs-group{
+    width: 30px;
+    position: absolute;
+    left: 850px;
+    top: 25px;
+}
+
+.bx-menu-alt-right{
+    width: 20px;
+    position: absolute;
+    left: 1060px;
+    top: 35px;
+    
+}
+.bxl-messenger{
+    width: 25px;
+    position: absolute;
+    left: 1100px;
+    top: 30px;
+}
+.bxs-bell{
+    width: 20px;
+    position: absolute;
+    left: 1140px;
+    top: 35px;
+}
+.bxs-user-circle{
+    width: 30px;
+    position: absolute;
+    left: 1180px;
+    top: 25px;
+
+}
+
+
+.magic{
+    width: 25px;
+    position: absolute;
+    top: 550px;
+    left: 1180px;
+    background: #a5a5a5;
+    border-radius: 50px;
+border: none;  
+}
+.div2{
+width: 335px;
+height: 830px;
+position: absolute;
+top: 50px;
+left: -5px;
+background: white;
+box-shadow: 0 0 5px black;
+
+}
+.f2{
+    width: 250px;
+height: 525px;
+border: none;
+
+}
+.div3{
+    width: 895px;
+height: 830px;
+position: absolute;
+top: 50px;
+left: 335px;
+background:#dcdada;
+}
+.H3{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 812;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+.input2{
+    position: absolute;
+    top: 80px;
+    width: 300px;
+    height: 40px;
+    border-radius: 30px;
+    border: none;
+    background:#b9b8b8;
+}
+.logo1{
+    width: 35px;
+    position: absolute;
+    left: 25px;
+    border:none;
+    border-radius: 100px;
+    background: #97acff;
+    display: inline-block;
+    top:150px;
+}
+.h8{
+    position: absolute;
+    left: 80px;
+    top: 135px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 539;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+.logo2{
+    width: 35px;
+    position: absolute;
+    left: 25px;
+    border:none;
+    border-radius: 100px;
+    background:#b9b8b8;
+    display: inline-block;
+    top:200px;
+}
+.h9{
+    position: absolute;
+    left: 80px;
+    top: 190px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 539;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+.logo3{
+    width: 35px;
+    position: absolute;
+    left: 25px;
+    border:none;
+    border-radius: 100px;
+    background:#b9b8b8;
+    display: inline-block;
+    top:250px;
+}
+.h10{
+    position: absolute;
+    left: 80px;
+    top: 240px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 539;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+.logo4{
+    width: 35px;
+    position: absolute;
+    left: 25px;
+    border:none;
+    border-radius: 100px;
+    background:#b9b8b8;
+    display: inline-block;
+    top:300px;
+}
+.h11{
+    position: absolute;
+    left: 80px;
+    top: 290px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 539;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+.logo5{
+    width: 35px;
+    position: absolute;
+    left: 25px;
+    border:none;
+    border-radius: 100px;
+    background:#b9b8b8;
+    display: inline-block;
+    top:350px;
+}
+.h12{
+    position: absolute;
+    left: 80px;
+    top: 340px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 539;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+.input3{
+    width: 300px;
+    position: absolute;
+    top: 420px;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    background: rgb(108, 108, 214);
+}
+.group{
+    width: 100px;
+    position: absolute;
+    left: 450px;
+    top: 250px;
+}
+.h7{
+    position: absolute;
+    top: 350px;
+    left: 230px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 697;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+    color: #4d4b4b;
+}
+  
+
+.shoes{
+    width: 250px;
+    position: absolute;
+    top: 50px;
+    left: 15px;
+    background: #4d4b4b;
+    border-radius: 10px;
+    border: none;
+}
+.shoes1{
+    width: 250px;
+    position: absolute;
+    top: 450px;
+    left: 15px;
+    background: #4d4b4b;
+    border-radius: 10px;
+    border: none;
+    
+}
+
+.h14{
+    position: absolute;
+    top: 260px;
+    left: 20px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 451;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.h15{
+    position: absolute;
+    top: 300px;
+    left: 20px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 451;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.h16{
+    position: absolute;
+    top: 340px;
+    left: 20px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 451;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    color: #a5a5a5;
+}
+.h17{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 451;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    position: absolute;
+    top: 1px;
+}
+.headphones{
+    width: 250px;
+    position: absolute;
+    top: 50px;
+    left: 280px;
+    background: #4d4b4b;
+    border-radius: 10px;
+    border: none;
+}
+.headphones1{
+    width: 250px;
+    position: absolute;
+    top: 450px;
+    left: 280px;
+    background: #4d4b4b;
+    border-radius: 10px;
+    border: none;
+}
+.h18{
+    position: absolute;
+    top: 260px;
+    left: 300px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 451;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.h19{
+    position: absolute;
+    top: 300px;
+    left: 300px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 451;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.h20{
+    position: absolute;
+    top: 340px;
+    left: 300px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 451;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    color: #a5a5a5;
+}
+.game{
+    width: 250px;
+    position: absolute;
+    top: 50px;
+    left: 550px;
+    background: #4d4b4b;
+    border-radius: 10px;
+    border: none;
+}
+.game1{
+    width: 250px;
+    position: absolute;
+    top: 450px;
+    left: 550px;
+    background: #4d4b4b;
+    border-radius: 10px;
+    border: none;
+}
+.h21{
+    position: absolute;
+    top: 260px;
+    left: 550px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 451;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.h22{
+    position: absolute;
+    top: 300px;
+    left: 550px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 451;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.h23{
+    position: absolute;
+    top: 340px;
+    left: 550px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 451;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    color: #a5a5a5;
+}
+.h24{
+    position: absolute;
+    top: 660px;
+    left: 20px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 451;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.h25{
+    position: absolute;
+    top: 700px;
+    left: 20px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 451;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.h26{
+    position: absolute;
+    top: 750px;
+    left: 20px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 451;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    color: #a5a5a5;
+}
+.h27{
+    position: absolute;
+    top: 660px;
+    left: 300px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 451;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.h28{
+    position: absolute;
+    top: 700px;
+    left: 300px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 451;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.h29{
+    position: absolute;
+    top: 750px;
+    left: 300px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 451;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    color: #a5a5a5;
+}
+.h30{
+    position: absolute;
+    top: 660px;
+    left: 550px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 451;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.h31{
+    position: absolute;
+    top: 700px;
+    left: 550px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 451;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.h32{
+    position: absolute;
+    top: 750px;
+    left: 550px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 451;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    color: #a5a5a5;
+}

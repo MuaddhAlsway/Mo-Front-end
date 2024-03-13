@@ -1,0 +1,285 @@
+.div1{
+position: fixed;
+width: 1300px;
+background: white;
+height: 60px;
+z-index: 1;
+top: -5px;
+left: -1px;
+box-shadow: 0 0 1px black;
+}
+
+.logo{
+    width: 35px;
+    display: inline-block;
+    position: relative;
+    top: 20px;
+    left: 15px;
+}
+.input1{
+    margin-left: 25px;
+    position: absolute;
+    top: 20px;
+    width: 250px;
+    height: 35px;
+    border:none;
+    border-radius: 30px;
+    background: rgb(199, 199, 199);
+}
+
+
+.bxs-home-alt-2{
+    width: 25px;
+    position: absolute;
+    left: 350px;
+    top: 25px;
+    
+    
+}
+
+.bx-user-circle{
+    width: 25px;
+    position: absolute;
+    left: 480px;
+    top: 25px;
+}
+
+.bxs-video-plus{
+    width: 25px;
+    position: absolute;
+    left: 600px;
+    top: 25px;
+}
+
+.bxs-store{
+    position: absolute;
+    left: 710px;
+    top: 25px;
+    width: 25px;
+}
+
+.bxs-group{
+    width: 30px;
+    position: absolute;
+    left: 850px;
+    top: 25px;
+}
+
+.bx-menu-alt-right{
+    width: 20px;
+    position: absolute;
+    left: 1060px;
+    top: 35px;
+    
+}
+.bxl-messenger{
+    width: 25px;
+    position: absolute;
+    left: 1100px;
+    top: 30px;
+}
+.bxs-bell{
+    width: 20px;
+    position: absolute;
+    left: 1140px;
+    top: 35px;
+}
+.bxs-user-circle{
+    width: 30px;
+    position: absolute;
+    left: 1180px;
+    top: 25px;
+
+}
+
+
+.magic{
+    width: 25px;
+    position: absolute;
+    top: 550px;
+    left: 1180px;
+    background: #a5a5a5;
+    border-radius: 50px;
+border: none;  
+}
+.div2{
+width: 335px;
+height: 545px;
+position: absolute;
+top: 50px;
+left: -5px;
+background: white;
+box-shadow: 0 0 5px black;
+
+}
+.f2{
+    width: 250px;
+height: 525px;
+border: none;
+
+}
+.div3{
+    width: 895px;
+height: 545px;
+position: absolute;
+top: 50px;
+left: 335px;
+background:#dcdada;
+}
+.H3{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 812;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+.group{
+    width: 100px;
+    position: absolute;
+    left: 450px;
+    top: 250px;
+}
+.h7{
+    position: absolute;
+    top: 350px;
+    left: 230px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 697;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+    color: #4d4b4b;
+}
+.logo1{
+    width: 35px;
+    position: absolute;
+    left: 25px;
+    border:none;
+    border-radius: 100px;
+    background: #97acff;
+    display: inline-block;
+
+}
+.h8{
+    position: absolute;
+    left: 80px;
+    top: 65px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 539;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+.logo2{
+    width: 35px;
+    position: absolute;
+    left: 25px;
+    top: 120px;
+    border:none;
+    border-radius: 100px;
+    background: #d7d7d7;
+    display: inline-block;
+
+}
+.h9{
+    position: absolute;
+    left: 80px;
+    top: 115px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 539;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+.logo3{
+    width: 35px;
+    position: absolute;
+    left: 25px;
+    top: 170px;
+    border:none;
+    border-radius: 100px;
+    background: #d7d7d7;
+    display: inline-block;
+
+}
+.h10{
+    position: absolute;
+    left: 80px;
+    top: 165px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 539;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+.logo4{
+    width: 35px;
+    position: absolute;
+    left: 25px;
+    top: 220px;
+    border:none;
+    border-radius: 100px;
+    background: #d7d7d7;
+    display: inline-block;
+
+}
+.h11{
+    position: absolute;
+    left: 80px;
+    top: 210px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 539;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+.logo5{
+    width: 35px;
+    position: absolute;
+    left: 25px;
+    top: 270px;
+    border:none;
+    border-radius: 100px;
+    background: #d7d7d7;
+    display: inline-block;
+
+}
+.h12{
+    position: absolute;
+    left: 80px;
+    top: 260px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 539;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+.logo6{
+    width: 35px;
+    position: absolute;
+    left: 25px;
+    top: 330px;
+    border:none;
+    border-radius: 100px;
+    background: #d7d7d7;
+    display: inline-block;
+
+}
+.h13{
+    position: absolute;
+    left: 80px;
+    top:320px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 539;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
