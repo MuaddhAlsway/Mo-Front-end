@@ -1,0 +1,605 @@
+body{
+    background: rgb(181, 181, 181);
+}
+.div1{
+    position: absolute;
+    top: -1px;
+    left: -1px;
+width: 1233px;
+height: 50px;
+background: #fffcfc;
+}
+.logo{
+    width: 30px;
+    position: absolute;
+    top: 10px;
+    left: 200px;
+}
+.input1{
+    width: 250px;
+    position: absolute;
+    left: 240px;
+    top: 10px;
+    height: 30px;
+    background: rgba(218, 218, 218, 0.333);
+    border: none;
+    font-weight: 200;
+}
+.home-icon{
+    width: 20px;
+    position: absolute;
+    left: 620px;
+    top: 5px;
+}
+
+.home{
+    display: inline-block;
+    text-decoration: none;
+    color: #bababa;
+    position: absolute;
+    top: 5px;
+    left: 615px;
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 479;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.home::after{
+    content: '';
+    height: 3px;
+    width: 0;
+    background: blue;
+    position: absolute;
+    left: -10px;
+    bottom: -10px;
+    transition: 0.5s;
+}
+.home:hover:after{
+width: 180%;
+
+}
+.home:hover{
+    color: black;
+}
+.group{
+    width: 20px;
+    position: absolute;
+    left: 700px;
+    top: 5px;
+}
+.Network{
+    display: inline-block;
+    text-decoration: none;
+    color: #bababa;
+    position: absolute;
+    top: 5px;
+    left: 685px;
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 479;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.Network::after{
+    content: '';
+    height: 3px;
+    width: 0;
+    background: blue;
+    position: absolute;
+    left: -10px;
+    bottom: -10px;
+    transition: 0.5s;
+}
+.Network:hover:after{
+width: 130%;
+
+}
+.Network:hover{
+    color: black;
+}
+.job{
+    width: 20px;
+    position: absolute;
+    left: 780px;
+    top: 5px;
+}
+.Jobs{
+    display: inline-block;
+    text-decoration: none;
+    color: #bababa;
+    position: absolute;
+    top: 5px;
+    left: 780px;
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 479;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.Jobs::after{
+    content: '';
+    height: 3px;
+    width: 0;
+    background: blue;
+    position: absolute;
+    left: -20px;
+    bottom: -10px;
+    transition: 0.5s;
+}
+.Jobs:hover:after{
+width: 260%;
+
+}
+.Jobs:hover{
+    color: black;
+}
+.message{
+    width: 20px;
+    position: absolute;
+    left: 850px;
+    top: 7px;
+}
+.messages{
+    display: inline-block;
+    text-decoration: none;
+    color: #bababa;
+    position: absolute;
+    top: 5px;
+    left: 840px;
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 479;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.messages::after{
+    content: '';
+    height: 3px;
+    width: 0;
+    background: blue;
+    position: absolute;
+    left: -15px;
+    bottom: -10px;
+    transition: 0.5s;
+}
+.messages:hover:after{
+width: 150%;
+
+}
+.messages:hover{
+    color: black;
+}
+.user1{
+    width: 20px;
+    position: absolute;
+    left:920px;
+    top: 5px;
+}
+.Me{
+    display: inline-block;
+    text-decoration: none;
+    color: #bababa;
+    position: absolute;
+    top: 5px;
+    left: 925px;
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 479;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.Me::after{
+    content: '';
+    height: 3px;
+    width: 0;
+    background: blue;
+    position: absolute;
+    left: -10px;
+    bottom: -10px;
+    transition: 0.5s;
+}
+.Me:hover:after{
+width: 200%;
+
+}
+.Me:hover{
+    color: black;
+}
+.menu{
+    width: 20px;
+    position: absolute;
+    left:1000px;
+    top: 5px;
+}
+.Business{
+    display: inline-block;
+    text-decoration: none;
+    color: #bababa;
+    position: absolute;
+    top: 5px;
+    left: 975px;
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 479;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.Business::after{
+    content: '';
+    height: 3px;
+    width: 0;
+    background: blue;
+    position: absolute;
+    left: 0px;
+    bottom: -10px;
+    transition: 0.5s;
+}
+.Business:hover:after{
+width: 100%;
+
+}
+.Business:hover{
+    color: black;
+}
+.f1{
+    width: 180px;
+    height: 300px;
+    position: absolute;
+    top: 80px;
+    left: 200px;
+    border-radius: 10px;
+    border: none;
+    background: white;
+}
+.f2{
+    position: absolute;
+    top: -1px;
+    width: 180px;
+    height: 35px;
+    left: -2px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border: none;
+    background-image: url(img/360_F_403115274_z14P5UiqhPQ14ZY2YERroLTjTQaEHuP7.jpg);
+}
+.camera{
+    width: 60px;
+    border-radius: 50px;
+    position: absolute;
+    top: 20px;
+    left: 75px;
+}
+.h8{
+    font-size: 15px;
+    position: absolute;
+    top: 80px;
+    left: 30px;
+    font-family: sans-serif;
+}
+.h9{
+    font-size: 10px;
+    position: absolute;
+    top: 100px;
+    left: 70px;
+    font-weight: 200;
+    color: blue;
+    font-family: sans-serif;
+}
+.hr1{
+    position: absolute;
+    top: 140px;
+    width: 180px;
+}
+.h10{
+    font-size: 13px;
+    position: absolute;
+    top: 150px;
+    font-family: sans-serif;
+    color: rgb(166, 166, 166);
+}
+.h11{
+    font-size: 10px;
+    position: absolute;
+    top: 165px;
+    font-family: sans-serif;
+    color: black;
+}
+.add{
+    width: 20px;
+    position: absolute;
+    left: 170px;
+    top: 175px;
+}
+.hr2{
+    position: absolute;
+    top: 200px;
+    width: 180px;
+
+}
+.hr3{
+    position: absolute;
+    top: 260px;
+    width: 180px;
+}
+.h12{
+    font-size: 13px;
+    position: absolute;
+    top: 205px;
+    font-family: sans-serif;
+    color: rgb(166, 166, 166);
+}
+.h13{
+
+
+    font-size: 10px;
+    position: absolute;
+    top: 220px;
+    font-family: sans-serif;
+    color: black;
+    left: 25px;
+}
+.add1{
+    width: 10px;
+    position: absolute;
+    left: 10px;
+    top: 243px;
+}
+
+.add2{
+    width: 20px;
+    position: absolute;
+    left: 5px;
+    top: 280px;
+}
+.h14{
+    font-size: 10px;
+    position: absolute;
+    top: 270px;
+    font-family: sans-serif;
+    color: black;
+    left: 30px;
+}
+.f3{
+    width: 500px;
+    height: 380px;
+    position: absolute;
+    top:80px;
+    left: 420px;
+    border-radius: 5px;
+    border: none;
+    background: white;
+}
+.f4{
+    width: 180px;
+    height: 150px;
+    position: absolute;
+    top: 410px;
+    left: 200px;
+    border-radius: 5px;
+    background-color:white;
+    border: none;
+}
+.h15{
+    font-family: sans-serif;
+    font-weight: 500;
+}
+.progress{
+    width: 450px;
+    height: 80px;
+    position: absolute;
+    top: 30px;
+    left: -5px;
+}
+.h16{
+    font-size: 10px;
+    position: absolute;
+    left: 450px;
+    top: 43px;
+    font-family: sans-serif;
+    color:#bababa;
+}
+.img1{
+   width: 500px;
+   position: relative;
+   top: 10px;
+   border-radius: 10px;
+}
+.h17{
+    font-family:monospace;   
+}
+.input2{
+    width: 120px;
+    height: 35px;
+    border-radius: 30px;
+    border: none;
+    background: blue;
+    color: white;
+}
+.f5{
+    width: 200px;
+    height: 370px;
+    position: absolute;
+    top: 80px;
+    border-radius: 5px;
+    left: 960px;
+    background: white;
+    border: none;
+}
+.img3{
+    width: 30px;
+    border-radius: 50px;
+    position: absolute;
+    top: 50px;
+}
+.h18{
+    font-family: sans-serif;
+}
+.h19{
+    position: absolute;
+    left: 50px;
+    top: 30px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.h20{
+    color: #bababa;
+    font-family: sans-serif;
+    font-size: 10px;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+.button1{
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    width: 80px;
+    height: 30px;
+    background: transparent;
+    border-radius: 30px;
+    border: solid 1px;
+}
+.Microsft{
+    width: 40px;
+    position: absolute;
+    left: 10px;
+    top: 150px;
+}
+.h21{
+    position: absolute;
+    left: 60px;
+    top: 120px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.h22{
+    color: #bababa;
+    font-family: sans-serif;
+    font-size: 10px;
+    position: absolute;
+    left: 60px;
+    top: 140px;
+}
+.button2{
+    position: absolute;
+    top: 200px;
+    left: 60px;
+    width: 80px;
+    height: 30px;
+    background: transparent;
+    border-radius: 30px;
+    border: solid 1px;
+}
+.Google{
+    width: 40px;
+    position: absolute;
+    top: 250px;
+}
+.h23{
+    position: absolute;
+    left: 60px;
+    top: 225px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.h24{
+    color: #bababa;
+    font-family: sans-serif;
+    font-size: 10px;
+    position: absolute;
+    left: 60px;
+    top: 245px;
+}
+.button3{
+    position: absolute;
+    top: 300px;
+    left: 60px;
+    width: 80px;
+    height: 30px;
+    background: transparent;
+    border-radius: 30px;
+    border: solid 1px;
+}
+.h25{
+    position: absolute;
+    left: 20px;
+    top: 320px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.f6{
+    position: absolute;
+    top: 490px;
+    left: 420px;
+    width: 500px;
+    height: 100px;
+    border-radius: 5px;
+    background: white;
+    border: none;
+}
+.user{
+    width: 40px;
+    position: absolute;
+    top: 15px;
+    left: 20px;
+}
+.input3{
+    width: 440px;
+    position: absolute;
+    left: 70px;
+    top: 15px;
+    height: 40px;
+    border-radius: 30px;
+}
+.Galary{
+    width: 20px;
+    position: absolute;
+    top: 75px;
+    left: 50px;
+}
+.h26{
+    position: absolute;
+    top: 55px;
+    left: 80px;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.event{
+    width: 20px;
+    position: absolute;
+    top: 75px;
+    left: 250px;
+}
+.h27{
+    position: absolute;
+    top: 55px;
+    left: 280px;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.Article{
+    width: 20px;
+    position: absolute;
+    top: 75px;
+    left: 400px;
+}
+.h28{
+    position: absolute;
+    top: 55px;
+    left: 430px;
+    font-family: sans-serif;
+    font-weight: 100;
+}

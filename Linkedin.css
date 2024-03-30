@@ -1,0 +1,794 @@
+
+.logo{
+    width: 180px;
+    position: absolute;
+    left: 50px;
+    top: -15px;
+}
+
+.newspaper{
+    width: 20px;
+    position: absolute;
+    top: 25px;
+    left: 600px;
+}
+.h7{
+font-size: 10px;
+position: absolute;
+    top: 25px;
+    left: 590px;
+  
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 357;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.newspaper:hover{
+    color: rgb(241, 159, 34);
+}
+.fa-users-viewfinder{
+    width: 20px;
+    position: absolute;
+    top: 25px;
+    left: 660px;
+}
+.fa-users-viewfinder:hover{
+color: white;
+}
+.h8{
+    font-size: 10px;
+    position: absolute;
+    top: 25px;
+    left: 660px;
+      
+        font-family: "Open Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 357;
+        font-style: normal;
+        font-variation-settings:
+          "wdth" 100;
+    }
+.fa-chalkboard-user{
+    position: absolute;
+    top: 25px;
+    left: 710px;
+    width: 25px;
+}
+.h9{
+    font-size: 10px;
+    position: absolute;
+    top: 25px;
+    left: 710px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 357;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    }
+.fa-briefcase{
+    width: 20px;
+    position: absolute;
+    top: 25px;
+    left: 770px;
+}
+.h10{
+    font-size: 10px;
+    position: absolute;
+    top: 25px;
+    left: 770px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 357;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.hr1{
+    position: absolute;
+    left: 850px;
+    top: 15px;
+  
+    height: 25px;
+}
+
+.hr2{
+    position: absolute;
+    left: 905px;
+
+    top: 15px;
+    height: 25px;
+}
+.laptop{
+    width: 20px;
+    position: absolute;
+    top: 25px;
+    left: 870px;
+}
+.h11{
+    font-size: 10px;
+    position: absolute;
+    top: 25px;
+    left: 855px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 357;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.join{
+    border: none;
+    background:  none;
+    position: absolute;
+    left: 950px;
+    top: 30px;
+    font-weight: 600;
+    font-size: 15px;
+}
+.Sign{
+    position: absolute;
+    left: 1070px;
+    
+    top: 20px;
+    width: 85px;
+    height: 35px;
+    border-radius: 30px;
+    border: solid 1px blue;
+    background: none;
+    color: blue;
+}
+.Sign:hover{
+    background: rgb(180, 219, 255);
+    color: blue;
+}
+.h12{
+    font-size: 50px;
+    position: absolute;
+    top: 100px;
+    left: 70px;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 303;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    color: rgb(221, 49, 49);
+}
+.email{
+    position: absolute;
+    top: 300px;
+    left: 75px;
+    font-family: "Nunito Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 715;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100,
+    "YTLC" 500;
+    font-size: 12px;
+
+}
+.ema{
+    position: absolute;
+    top: 325px;
+    left: 75px;
+    width: 400px;
+    height: 40px;
+    
+}
+.ema:hover{
+    box-shadow: 1px 1px 1px black;
+    background: rgb(216, 216, 216);
+}
+.password{
+    position: absolute;
+    top: 430px;
+    left: 75px;
+    width: 400px;
+    height: 40px;
+}
+.password:hover{
+    box-shadow: 1px 1px 1px black;
+    background: rgb(216, 216, 216);
+}
+.pass{
+    position: absolute;
+    top: 405px;
+    left: 75px;
+    font-family: "Nunito Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 715;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100,
+    "YTLC" 500;
+    font-size: 12px;
+}
+
+.login{
+    width: 700px;
+    position: absolute;
+    top: 200px;
+    left: 650px;
+}
+.h13{
+    font-size: 15px;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 715;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100,
+      "YTLC" 500;
+    position: absolute;
+    top: 470px;
+    left: 75px;
+    color: rgb(9, 177, 255);
+}
+.Sign1{
+    position: absolute;
+    top: 550px;
+    left: 70px;
+    width: 420px;
+    height: 50px;
+    border-radius: 30px;
+    border: none;
+    background: blue;
+    color: white;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 715;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100,
+      "YTLC" 500;
+}
+.Sign1:hover{
+background: rgb(0, 0, 130);
+}
+.hr3{
+    width: 190px;
+    position: absolute;
+    top: 650px;
+    left: 70px;
+}
+.hr4{
+    width: 190px;
+    position: absolute;
+    top: 650px;
+    left: 300px;
+}
+.h14{
+  
+    position: absolute;
+    top: 625px;
+    left: 275px;
+    display: inline-block;
+}
+.h15{
+    position: absolute;
+    top: 655px;
+    left: 80px;
+    display: inline-block;
+    font-family: "Nunito Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 306;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100,
+    "YTLC" 500;
+}
+span{
+    color: blue;
+}
+.Sign2{
+    position: absolute;
+    top: 750px;
+    left: 70px;
+    width: 420px;
+    height: 45px;
+    border-radius: 30px;
+    border: none;
+    background: transparent;
+    border: solid black 1px;
+    color: white;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 715;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100,
+      "YTLC" 500;
+}
+.Sign2:hover{
+    box-shadow: 1px 1px 1px black;
+}
+.watsapp{
+width: 15px;
+border-radius: 250px;
+position: absolute;
+top: 763px;
+left: 80px;
+}
+.google{
+    width: 30px;
+border-radius: 200px;
+position: absolute;
+top: 758px;
+left: 450px;
+}
+.h16{
+   
+    position: absolute;
+    top: 735px;
+    left: 100px;
+    display: inline-block;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 715;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100,
+}
+.h17{
+    position: absolute;
+    top: 753px;
+    left: 100px;
+    display: inline-block;
+    font-family: "Nunito Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 306;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100,
+    "YTLC" 500;
+}
+.Sign3{
+    position: absolute;
+    top: 810px;
+    left: 70px;
+    width: 420px;
+    height: 45px;
+    border-radius: 30px;
+    border: none;
+    background: transparent;
+    border: solid 1px black;
+    color: black;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 715;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100,
+      "YTLC" 500;
+}
+.Sign3:hover{
+    background: rgb(230, 229, 229);
+}
+.h18{
+    position: absolute;
+    top: 900px;
+    left: 80px;
+    font-size: 50px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 303;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.p1{
+    position: absolute;
+    top: 1150px;
+    left: 80px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 303;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.input1{
+    width: 120px;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 30px;
+    background: transparent;
+    position: absolute;
+    top: 1030px;
+    left: 600px;
+}
+.input1:hover{
+    background: rgba(211, 211, 211, 0.473);
+}
+.input2{
+    width: 150px;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 30px;
+    background: transparent;
+    position: absolute;
+    top: 1030px;
+    left: 725px;
+}
+.input2:hover{
+    background: rgba(211, 211, 211, 0.473);
+}
+.input3{
+    width: 120px;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 30px;
+    background: transparent;
+    position: absolute;
+    top: 1030px;
+    left: 880px;
+}
+.input3:hover{
+    background: rgba(211, 211, 211, 0.473);
+}
+.input4{
+    width: 120px;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 30px;
+    background: transparent;
+    position: absolute;
+    top: 1030px;
+    left: 1005px;
+}
+.input4:hover{
+    background: rgba(211, 211, 211, 0.473);
+}
+.input5{
+    width: 120px;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 30px;
+    background: transparent;
+    position: absolute;
+    top: 1090px;
+    left: 600px;
+}
+.input5:hover{
+    background: rgba(211, 211, 211, 0.473);
+}
+.input6{
+    width: 150px;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 30px;
+    background: transparent;
+    position: absolute;
+    top: 1090px;
+    left: 725px;
+}
+.input6:hover{
+    background: rgba(211, 211, 211, 0.473);
+}
+.input7{
+    width: 165px;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 30px;
+    background: transparent;
+    position: absolute;
+    top: 1090px;
+    left: 880px;
+}
+.input7:hover{
+    background: rgba(211, 211, 211, 0.473);
+}
+.input8{
+    width: 150px;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 30px;
+    background: transparent;
+    position: absolute;
+    top: 1150px;
+    left: 600px;
+}
+.input8:hover{
+    background: rgba(211, 211, 211, 0.473);
+}
+.input9{
+    width: 150px;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 30px;
+    background: transparent;
+    position: absolute;
+    top: 1150px;
+    left: 755px;
+}
+.input9:hover{
+    background: rgba(211, 211, 211, 0.473);
+}
+.input10{
+    width: 100px;
+    height: 50px;
+    border: 1px blue solid;
+    border-radius: 30px;
+    background: transparent;
+    position: absolute;
+    top: 1150px;
+    left: 910px;
+    color: blue;
+}
+.input10:hover{
+    background: rgba(156, 164, 255, 0.473);
+}
+.h19{
+    position: absolute;
+    top: 1300px;
+    left: 80px;
+    font-size: 50px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 303;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.input11{
+    width: 100px;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 30px;
+    background: transparent;
+    position: absolute;
+    top: 1400px;
+    left: 600px;
+   
+}
+.input12{
+    width: 100px;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 30px;
+    background: transparent;
+    position: absolute;
+    top: 1400px;
+    left: 710px;
+   
+}
+.h20{
+    position: absolute;
+    top: 1340px;
+    left: 600px;
+   
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 433;
+  font-style: normal;
+  color: rgb(113, 108, 108);
+}
+.div1{
+    position: absolute;
+    top: 1750px;
+    left: -1px;
+    width: 1280px;
+    height: 250px;
+    background: #c9c9c948;
+}
+.h21{
+  
+    position: absolute;
+    left: 100px;
+    top: 20px;
+    font-size: 40px;
+    color: brown;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 309;
+    font-style: normal;
+}
+.input13{
+    width: 100px;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 30px;
+    background: transparent;
+    position: absolute;
+    top: 100px;
+    left: 710px;
+}
+.h22{
+    position: absolute;
+    left: 100px;
+    top: 2050px;
+    font-size: 40px;
+    color: black;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 309;
+    font-style: normal;
+}
+.input14{
+    width: 120px;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 30px;
+    background: transparent;
+    position: absolute;
+    top: 2080px;
+    left: 710px;
+}
+.p2{
+    position: absolute;
+    left: 100px;
+    top: 2180px;
+}
+.div2{
+    position: absolute;
+    top: 2500px;
+    left: -1px;
+    width: 1280px;
+    height: 750px;
+    background: #c9c9c948;
+    overflow: scroll;
+}
+.h23{
+    position: absolute;
+    left: 100px;
+    top: 180px;
+    font-size: 40px;
+    color: brown;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 309;
+    font-style: normal;
+}
+
+.img1{
+    width: 450px;
+    position: absolute;
+    left: 700px;
+    top: 150px;
+}
+.p3{
+    position: absolute;
+    left: 100px;
+    top: 350px;
+    font-size: 25px;
+    color: blck;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 309;
+    font-style: normal;
+}
+.logo1{
+    position: absolute;
+    top: 3400px;
+    width: 250px;
+    left: 100px;
+}
+.h24{
+    position: absolute;
+    top: 3650px;
+    left: 100px;
+    font-size: 30px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 309;
+    font-style: normal;
+}
+.input15{
+    width: 150px;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 30px;
+    background: transparent;
+    position: absolute;
+    top: 3780px;
+    left: 100px;
+}
+.logo2{
+    position: absolute;
+    top: 3400px;
+    width: 250px;
+    left: 800px;
+}
+.h25{
+    position: absolute;
+    top: 3650px;
+    left: 800px;
+    font-size: 30px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 309;
+    font-style: normal;
+}
+.input16{
+    width: 280px;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 5px;
+    background: transparent;
+    position: absolute;
+    top: 3780px;
+    left: 800px;
+}
+.div3{
+    position: absolute;
+    top: 4000px;
+    left: -1px;
+    width: 600px;
+    height: 600px;
+    background: #c9c9c948;
+}
+.h26{
+    position: absolute;
+    left: 150px;
+    top: 180px;
+    font-size: 30px;
+    color: brown;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 309;
+    font-style: normal;
+}
+.p4{
+    position: absolute;
+    left: 150px;
+    top: 230px;
+    font-size: 30px;
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 303;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.input17{
+    width: 320px;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 5px;
+    background:   #c9c9c948;
+    position: absolute;
+    top: 400px;
+    left: 150px;
+    border: none;
+    
+}
+.input18{
+    width: 320px;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 5px;
+    background:   #c9c9c948;
+    position: absolute;
+    top: 460px;
+    left: 150px;
+    border: none;
+    
+}
+.input19{
+    width: 320px;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 5px;
+    background:   #c9c9c948;
+    position: absolute;
+    top: 520px;
+    left: 150px;
+    border: none;
+    
+}
+.img2{
+    width: 700px;
+    position: absolute;
+    left: 800px;
+   
+
+}
+*{
+    cursor: pointer;
+}

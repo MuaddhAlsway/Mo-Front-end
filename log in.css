@@ -1,0 +1,113 @@
+body{
+    background: #eae9e9;
+}
+.img{
+    width: 150px;
+    position: absolute;
+    left: 150px;
+    top: -5px;
+}
+.h7{
+    font-size: 26px;
+    font-weight: 400;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 390px;
+    top: 80px;
+}
+.f1{
+    width: 250px;
+    height: 380px;
+    position: absolute;
+    left: 450px;
+    top: 150px;
+    background: white;
+    border: none;
+    border-radius: 5px;
+}
+.label1{
+    position: relative;
+    top: 20px;
+    font-weight: 300;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.label2{
+    position: relative;
+    top: 40px;
+    font-weight: 300;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.email{
+    position: relative;
+    top: 30px;
+    width: 300px;
+    height: 20px;
+}
+.password{
+    position: relative;
+    top: 50px;
+    width: 300px;
+    height: 20px;
+}
+p{
+    font-size: 10px;
+    position: relative;
+    top: 50px;
+    font-weight: 200;
+    font-family:sans-serif;
+}
+span{
+    color: blue;
+}
+.input1{
+    position: relative;
+    top: 60px;
+    width: 300px;
+    height: 35px;
+    border-radius: 30px;
+    border: none;
+    background: blue;
+    color: white;
+}
+.input2{
+    position: relative;
+    top: 40px;
+    width: 300px;
+    height: 35px;
+    border-radius: 30px;
+    border: solid 1px black;
+    background: transparent;
+    color: black;
+}
+.hr1{
+    position: relative;
+    width: 250px;
+    top: 70px;
+}
+h6{
+    position: relative;
+    top: 50px;
+    left: 125px;
+    font-family:monospace;
+    font-size: 10px;
+}
+.img1{
+    width: 20px;
+    position: absolute;
+    bottom: 88px;
+    left: 80px;
+}
+h4{
+    font-size: 10px;
+    font-family: sans-serif;
+    position: relative;
+    left: 90px;
+    top: 80px;
+}
+h5{
+    font-size: 10px;
+    font-family: sans-serif;
+   position: absolute;
+   top: 540px;
+   left: 500px;
+}
